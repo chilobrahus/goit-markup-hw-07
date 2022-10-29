@@ -1,4 +1,6 @@
- .hero-bcg {
+ .hero {
+     padding-top: 200px;
+     padding-bottom: 200px;
      max-width: 1600px;
      height: 600px;
      margin-left: auto;
@@ -8,10 +10,4 @@
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
- }
- 
- .hero {
-     /* background-color: var(--bcg-black-color); */
-     padding-top: 200px;
-     padding-bottom: 200px;
  }

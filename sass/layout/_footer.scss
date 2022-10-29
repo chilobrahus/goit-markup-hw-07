@@ -1,9 +1,6 @@
 .footer {
     padding-top: 60px;
     padding-bottom: 60px;
-}
-
-.temporary-bcg {
     background-color: var(--bcg-black-color);
 }
 
@@ -41,7 +38,7 @@
     }
 }
 
-.footer-box {
+.footer__container {
     display: flex;
     align-items: baseline;
 }
